@@ -1,0 +1,15 @@
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\Structural\bin\Debug\net6.0\Structural.exe
+C:\GitHub\DesignPatterns\Structural\bin\Debug\net6.0\Structural.deps.json
+C:\GitHub\DesignPatterns\Structural\bin\Debug\net6.0\Structural.runtimeconfig.json
+C:\GitHub\DesignPatterns\Structural\bin\Debug\net6.0\Structural.dll
+C:\GitHub\DesignPatterns\Structural\bin\Debug\net6.0\Structural.pdb
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.dll
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\refint\Structural.dll
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.pdb
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\Structural.genruntimeconfig.cache
+C:\GitHub\DesignPatterns\Structural\obj\Debug\net6.0\ref\Structural.dll
