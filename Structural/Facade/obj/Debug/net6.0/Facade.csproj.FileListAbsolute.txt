@@ -1,0 +1,15 @@
+C:\GitHub\DesignPatterns\Structural\Facade\bin\Debug\net6.0\Facade.exe
+C:\GitHub\DesignPatterns\Structural\Facade\bin\Debug\net6.0\Facade.deps.json
+C:\GitHub\DesignPatterns\Structural\Facade\bin\Debug\net6.0\Facade.runtimeconfig.json
+C:\GitHub\DesignPatterns\Structural\Facade\bin\Debug\net6.0\Facade.dll
+C:\GitHub\DesignPatterns\Structural\Facade\bin\Debug\net6.0\Facade.pdb
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.dll
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\refint\Facade.dll
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.pdb
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\Facade.genruntimeconfig.cache
+C:\GitHub\DesignPatterns\Structural\Facade\obj\Debug\net6.0\ref\Facade.dll

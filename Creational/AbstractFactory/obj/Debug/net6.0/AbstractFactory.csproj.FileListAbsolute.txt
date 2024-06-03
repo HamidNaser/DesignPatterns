@@ -1,0 +1,15 @@
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+C:\GitHub\DesignPatterns\Creational\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll

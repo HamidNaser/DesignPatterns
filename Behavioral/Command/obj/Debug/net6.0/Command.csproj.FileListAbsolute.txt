@@ -1,0 +1,15 @@
+C:\GitHub\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.exe
+C:\GitHub\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.deps.json
+C:\GitHub\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+C:\GitHub\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.dll
+C:\GitHub\DesignPatterns\Behavioral\Command\bin\Debug\net6.0\Command.pdb
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.dll
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\refint\Command.dll
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.pdb
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+C:\GitHub\DesignPatterns\Behavioral\Command\obj\Debug\net6.0\ref\Command.dll
