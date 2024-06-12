@@ -1,3 +1,25 @@
+### Creational Patterns
+1. **Singleton**: Ensures a class has only one instance and provides a global point of access to it.
+2. **Factory Method**: Defines an interface for creating an object, but lets subclasses alter the type of objects that will be created.
+3. **Abstract Factory**: Provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+4. **Builder**: Separates the construction of a complex object from its representation, allowing the same construction process to create various representations.
+5. **Prototype**: Creates new objects by copying an existing object, known as the prototype.
+
+### Structural Patterns
+1. **Adapter**: Allows incompatible interfaces to work together.
+2. **Bridge**: Decouples an abstraction from its implementation so that the two can vary independently.
+3. **Composite**: Composes objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.
+4. **Decorator**: Adds additional responsibilities to an object dynamically.
+5. **Facade**: Provides a simplified interface to a complex subsystem.
+6. **Flyweight**: Reduces the cost of creating and managing a large number of similar objects by sharing as much data as possible.
+7. **Proxy**: Provides a surrogate or placeholder for another object to control access to it.
+
+### Behavioral Patterns
+1. **Chain of Responsibility**: Passes a request along a chain of handlers. Upon receiving a request, each handler decides either to process the request or to pass it to the next handler in the chain.
+2. **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
+3. **Interpreter**: Defines a representation for a language's grammar along with an interpreter that uses the representation to interpret sentences in the language.
+4. **Iterator**: Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.
+
 Design patterns in software engineering are reusable solutions to common problems encountered in software design. They are templates designed to help you write code that is more maintainable, scalable, and robust. Here are some of the most well-known design patterns, categorized into three main types: creational, structural, and behavioral patterns.
 
 ### Creational Patterns
